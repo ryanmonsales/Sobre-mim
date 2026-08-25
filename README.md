@@ -14,7 +14,7 @@ Olá! Eu sou o **Ryan**, estudante e entusiasta de tecnologia, negócios e inova
 
 - 🎓 Estudo **Programação Web** e **Administração**
 - 💻 Desenvolvo projetos com tecnologias front-end e back-end
-- 🤖 Tenho interesse em **inteligência artificial, APIs, automações e SaaS**
+- 🤖 Trabalho com **inteligência artificial, n8n, APIs e automações de processos e sistemas**
 - 📈 Atuo e compartilho conhecimento sobre **marketing digital, branding, conteúdo e funis de vendas**
 - 🚀 Meu objetivo é criar produtos e empresas de tecnologia que resolvam problemas reais
 - 🤝 Estou aberto a networking, colaborações e novos projetos
